@@ -104,7 +104,7 @@ class _SignUpViewState extends State<SignUpView> {
               ),
               RoundButton(title: "Sign Up", onPressed: () {
                 btnSignUp();
-                
+
                 //  Navigator.push(
                 //       context,
                 //       MaterialPageRoute(
